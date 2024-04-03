@@ -27,7 +27,7 @@ nh3==0.2.15
 packaging==23.2
 pathspec==0.12.1
 pdoc==14.3.0
-pillow==10.2.0
+pillow==10.3.0
 pkginfo==1.9.6
 platformdirs==4.1.0
 pycparser==2.21
