@@ -9,7 +9,7 @@ click==8.1.7
 cryptography==41.0.7
 dill==0.3.7
 docutils==0.20.1
-idna==3.6
+idna==3.7
 imagesize==1.4.1
 importlib-metadata==7.0.1
 isort==5.13.2
